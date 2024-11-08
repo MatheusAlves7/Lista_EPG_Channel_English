@@ -5,6 +5,14 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s101364_h15_ac.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+  <programme start="20241108050000 -0500" stop="20241108053000 -0500" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <desc lang="en">Lyla gets a strike her first time bowling but gets frustrated when she realizes bowling isn't as easy as she thought it was; Lyla feels left out when Everett and Ale's friendship thrives.(n)</desc>
+  </programme>
+  <programme start="20241108053000 -0500" stop="20241108060000 -0500" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <desc lang="en">The crew must repair damage to an edge habitat before the Lawn Bowling Championships; the pals investigate whether animals in the wild play for fun.(n)</desc>
+  </programme>
   <programme start="20241108060000 -0500" stop="20241108063000 -0500" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
     <title lang="en">Molly of Denali</title>
     <desc lang="en">Trini is discouraged because she can't add her own moves to the Lynx Dance; Molly hopes to catch a Yukon River king salmon.(n)</desc>

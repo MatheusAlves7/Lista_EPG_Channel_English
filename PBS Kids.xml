@@ -1,0 +1,953 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <display-name lang="en">PBS Kids (WBRA-TV3) Roanoke, VA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/v2/s101364_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <programme start="20241115050000 -0300" stop="20241115053000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.(n)</desc>
+  </programme>
+  <programme start="20241115053000 -0300" stop="20241115060000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">The Grand Mystery of the Grand Canyon; Strongest Show on Earth</sub-title>
+    <desc lang="en">The group visits the Grand Canyon to find out how it was created; Nature Cat and his friends try to figure out who is the strongest.(n)</desc>
+  </programme>
+  <programme start="20241115060000 -0300" stop="20241115063000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Dinjik Dhah; Message in a Bottle</sub-title>
+    <desc lang="en">Molly and her friends learn how to tan their own moose hide; Molly and Tooey find a message in a bottle while playing on the riverbank.(n)</desc>
+  </programme>
+  <programme start="20241115063000 -0300" stop="20241115070000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Sara Loses Her Snap; A Soupie Mystery</sub-title>
+    <desc lang="en">Sara loses her super strength on the same day the crew has to move a giant, heavy burger; the crew sets out to find Soupy, a mysterious creature that has been spotted in Super Superior Lake.(n)</desc>
+  </programme>
+  <programme start="20241115070000 -0300" stop="20241115073000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">The Cyberchase Movie, Part 2</sub-title>
+    <desc lang="en">Hacker and his team drill inside a nature preserve, inadvertently destroying animal habitats.(n)</desc>
+  </programme>
+  <programme start="20241115073000 -0300" stop="20241115080000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Totally Totem; Glacier or Bust</sub-title>
+    <desc lang="en">Andy and Luna enlist the help of a totem pole artist to tell their story; Andy wants to see the blue light of the Mendenhall Glacier ice caves.(n)</desc>
+  </programme>
+  <programme start="20241115080000 -0300" stop="20241115083000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">The March of the Sea Turtles; A Squirrely Situation</sub-title>
+    <desc lang="en">The kids try to figure out why the newly-hatched baby sea turtles walk around town instead of crawling into the ocean; Emily Elizabeth and Clifford are inspired to turn Clifford's doghouse into a warm and cozy paradise.(n)</desc>
+  </programme>
+  <programme start="20241115083000 -0300" stop="20241115090000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Monster Truckin'</sub-title>
+    <desc lang="en">Elmo and Chris make a monster truck jump and try to design a ramp out of a pizza box lid.(n)</desc>
+  </programme>
+  <programme start="20241115090000 -0300" stop="20241115093000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Peterrific; Mother's Day Surprise</sub-title>
+    <desc lang="en">Peter builds the tallest block tower ever; Pinkalicious and Peter plan something extra special for Mother's Day.(n)</desc>
+  </programme>
+  <programme start="20241115093000 -0300" stop="20241115100000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Mecha Builders</title>
+    <sub-title lang="en">Sticky Space Race; The Big Ice</sub-title>
+    <desc lang="en">Zee's super sticky slime spills on Zee and MacBarm, leaving them stuck together; when Marwyn runs out of ice, the Martians send a giant hunk of ice.(n)</desc>
+  </programme>
+  <programme start="20241115100000 -0300" stop="20241115103000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Grouch-ercise</sub-title>
+    <desc lang="en">Oscar the Grouch has been feeling terrible and Elmo, Abby Cadabby, Grundgetta and Nina find different exercises he could do to feel better; when they come back, they find Oscar feeling good and rotten again after a long, grouchy walk.(n)</desc>
+  </programme>
+  <programme start="20241115103000 -0300" stop="20241115110000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Dancer</sub-title>
+    <desc lang="en">A young cat, Milo, lives with his parents at their drycleaner; their robotic washing machine, Suds, lets Milo and his friends try on different outfits, introducing them to a realm of endless possibilities.(n)</desc>
+  </programme>
+  <programme start="20241115110000 -0300" stop="20241115113000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Brother Day; Cafe Chaos</sub-title>
+    <desc lang="en">Malik learns the key to a successful.(n)</desc>
+  </programme>
+  <programme start="20241115113000 -0300" stop="20241115120000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Me Time; Zadie and the Big, Loud, Noisy Thing</sub-title>
+    <desc lang="en">The Wombats go on a quest to figure out all the elements that go into creating the perfect.(n)</desc>
+  </programme>
+  <programme start="20241115120000 -0300" stop="20241115123000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Daniel and O's Road Trip; Daniel's Puppet Plan</sub-title>
+    <desc lang="en">Daniel and O pretend to go on a trolley road trip; when Daniel and his friends make puppets at the library, they find out that making a plan can help them put on a better puppet show.(n)</desc>
+  </programme>
+  <programme start="20241115123000 -0300" stop="20241115130000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Tiger Family Lunch; Dinnertime at Jodi's</sub-title>
+    <desc lang="en">Daniel gets distracted at a picnic lunch at the playground with Mom Tiger; Daniel helps make pan pans for dinner at Jodi's house.(n)</desc>
+  </programme>
+  <programme start="20241115130000 -0300" stop="20241115133000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Fake Mustache Collection; The Lint Dinosaur Collection</sub-title>
+    <desc lang="en">Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.(n)</desc>
+  </programme>
+  <programme start="20241115133000 -0300" stop="20241115140000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">Your Churn, George; Going Nuts</sub-title>
+    <desc lang="en">George volunteers to make butter; George becomes involved in a territorial dispute.(n)</desc>
+  </programme>
+  <programme start="20241115140000 -0300" stop="20241115143000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Breakfast Bowl; Dancing Dandelions</sub-title>
+    <desc lang="en">Donkey and Panda compete in the Breakfast Bowl; Donkey, Panda and Bob Dog plant dancing dandelion seeds and look for the right music to help the flowers grow.(n)</desc>
+  </programme>
+  <programme start="20241115143000 -0300" stop="20241115150000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc lang="en">Donkey and Panda have different ideas about how to celebrate Best Friends Day; while getting ready to make big art, the pals get stuck to a big glue bottle.(n)</desc>
+  </programme>
+  <programme start="20241115150000 -0300" stop="20241115153000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">Going With the Tide; Slime Time</sub-title>
+    <desc lang="en">The kids try to build a sandcastle, but have trouble finding the right spot on the beach; Elinor uses slime to get a stuck ring off Camilla's finger.(n)</desc>
+  </programme>
+  <programme start="20241115153000 -0300" stop="20241115160000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">Rosie and Javi prepare for the arrival of a dragon; Rosie finds a lucky charm in the backyard.(n)</desc>
+  </programme>
+  <programme start="20241115160000 -0300" stop="20241115163000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(n)</desc>
+  </programme>
+  <programme start="20241115163000 -0300" stop="20241115170000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(n)</desc>
+  </programme>
+  <programme start="20241115170000 -0300" stop="20241115173000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(n)</desc>
+  </programme>
+  <programme start="20241115173000 -0300" stop="20241115180000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(n)</desc>
+  </programme>
+  <programme start="20241115180000 -0300" stop="20241115183000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(n)</desc>
+  </programme>
+  <programme start="20241115183000 -0300" stop="20241115190000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(n)</desc>
+  </programme>
+  <programme start="20241115190000 -0300" stop="20241115193000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(n)</desc>
+  </programme>
+  <programme start="20241115193000 -0300" stop="20241115200000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(n)</desc>
+  </programme>
+  <programme start="20241115200000 -0300" stop="20241115203000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(n)</desc>
+  </programme>
+  <programme start="20241115203000 -0300" stop="20241115210000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Groundhog Wake Up Call</sub-title>
+    <desc lang="en">The Kratt boys learn about hibernation when Aviva falls into a deep sleep.(n)</desc>
+  </programme>
+  <programme start="20241115210000 -0300" stop="20241115213000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(n)</desc>
+  </programme>
+  <programme start="20241115213000 -0300" stop="20241115220000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">A Little Kelp From My Friends; Mission to Mars</sub-title>
+    <desc lang="en">The crew tries to save the kelp forests from being eaten by sea urchins; the gang visits Mars in a daydream, hoping to meet aliens.(n)</desc>
+  </programme>
+  <programme start="20241115220000 -0300" stop="20241115223000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Heat Wave; It Came From Beyond</sub-title>
+    <desc lang="en">A heat wave hits Qyah, and Molly is determined to find out the highest temperature on record; Molly and Trini must save Qyah from a wildflower.(n)</desc>
+  </programme>
+  <programme start="20241115223000 -0300" stop="20241115230000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Search and Rescue; Secret Lives of Teachers</sub-title>
+    <desc lang="en">Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.(n)</desc>
+  </programme>
+  <programme start="20241115230000 -0300" stop="20241115233000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">An Urchin Matter</sub-title>
+    <desc lang="en">The CyberSquad explores why the once-healthy kelp in Big Bay is washing ashore.(n)</desc>
+  </programme>
+  <programme start="20241115233000 -0300" stop="20241116000000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Mr. Precise; The Case of the Missing Cheese</sub-title>
+    <desc lang="en">Carmen breaks her favorite clock; Leo learns about Swiss cheese.(n)</desc>
+  </programme>
+  <programme start="20241116000000 -0300" stop="20241116003000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.</desc>
+  </programme>
+  <programme start="20241116003000 -0300" stop="20241116010000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.</desc>
+  </programme>
+  <programme start="20241116010000 -0300" stop="20241116013000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.</desc>
+  </programme>
+  <programme start="20241116013000 -0300" stop="20241116020000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.</desc>
+  </programme>
+  <programme start="20241116020000 -0300" stop="20241116023000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.</desc>
+  </programme>
+  <programme start="20241116023000 -0300" stop="20241116030000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.</desc>
+  </programme>
+  <programme start="20241116030000 -0300" stop="20241116033000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.</desc>
+  </programme>
+  <programme start="20241116033000 -0300" stop="20241116040000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.</desc>
+  </programme>
+  <programme start="20241116040000 -0300" stop="20241116043000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.</desc>
+  </programme>
+  <programme start="20241116043000 -0300" stop="20241116050000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Groundhog Wake Up Call</sub-title>
+    <desc lang="en">The Kratt boys learn about hibernation when Aviva falls into a deep sleep.</desc>
+  </programme>
+  <programme start="20241116050000 -0300" stop="20241116053000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.(r)</desc>
+  </programme>
+  <programme start="20241116050000 -0300" stop="20241116053000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.(r)</desc>
+  </programme>
+  <programme start="20241116050000 -0300" stop="20241116053000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Moon Rock Cove; Rainbow Collection</sub-title>
+    <desc lang="en">Liana and Louisa compete to see who is more outdoorsy; the Loops are bored on their camping trip until Lyla suggests a scavenger hunt.(r)</desc>
+  </programme>
+  <programme start="20241116053000 -0300" stop="20241116060000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">The Grand Mystery of the Grand Canyon; Strongest Show on Earth</sub-title>
+    <desc lang="en">The group visits the Grand Canyon to find out how it was created; Nature Cat and his friends try to figure out who is the strongest.(r)</desc>
+  </programme>
+  <programme start="20241116053000 -0300" stop="20241116060000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">The Grand Mystery of the Grand Canyon; Strongest Show on Earth</sub-title>
+    <desc lang="en">The group visits the Grand Canyon to find out how it was created; Nature Cat and his friends try to figure out who is the strongest.(r)</desc>
+  </programme>
+  <programme start="20241116053000 -0300" stop="20241116060000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">The Grand Mystery of the Grand Canyon; Strongest Show on Earth</sub-title>
+    <desc lang="en">The group visits the Grand Canyon to find out how it was created; Nature Cat and his friends try to figure out who is the strongest.(r)</desc>
+  </programme>
+  <programme start="20241116060000 -0300" stop="20241116063000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Dinjik Dhah; Message in a Bottle</sub-title>
+    <desc lang="en">Molly and her friends learn how to tan their own moose hide; Molly and Tooey find a message in a bottle while playing on the riverbank.(r)</desc>
+  </programme>
+  <programme start="20241116060000 -0300" stop="20241116063000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Dinjik Dhah; Message in a Bottle</sub-title>
+    <desc lang="en">Molly and her friends learn how to tan their own moose hide; Molly and Tooey find a message in a bottle while playing on the riverbank.(r)</desc>
+  </programme>
+  <programme start="20241116060000 -0300" stop="20241116063000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Dinjik Dhah; Message in a Bottle</sub-title>
+    <desc lang="en">Molly and her friends learn how to tan their own moose hide; Molly and Tooey find a message in a bottle while playing on the riverbank.(r)</desc>
+  </programme>
+  <programme start="20241116063000 -0300" stop="20241116070000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Sara Loses Her Snap; A Soupie Mystery</sub-title>
+    <desc lang="en">Sara loses her super strength on the same day the crew has to move a giant, heavy burger; the crew sets out to find Soupy, a mysterious creature that has been spotted in Super Superior Lake.(r)</desc>
+  </programme>
+  <programme start="20241116063000 -0300" stop="20241116070000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Sara Loses Her Snap; A Soupie Mystery</sub-title>
+    <desc lang="en">Sara loses her super strength on the same day the crew has to move a giant, heavy burger; the crew sets out to find Soupy, a mysterious creature that has been spotted in Super Superior Lake.(r)</desc>
+  </programme>
+  <programme start="20241116063000 -0300" stop="20241116070000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Sara Loses Her Snap; A Soupie Mystery</sub-title>
+    <desc lang="en">Sara loses her super strength on the same day the crew has to move a giant, heavy burger; the crew sets out to find Soupy, a mysterious creature that has been spotted in Super Superior Lake.(r)</desc>
+  </programme>
+  <programme start="20241116070000 -0300" stop="20241116073000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">The Cyberchase Movie, Part 2</sub-title>
+    <desc lang="en">Hacker and his team drill inside a nature preserve, inadvertently destroying animal habitats.(r)</desc>
+  </programme>
+  <programme start="20241116070000 -0300" stop="20241116073000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">The Cyberchase Movie, Part 2</sub-title>
+    <desc lang="en">Hacker and his team drill inside a nature preserve, inadvertently destroying animal habitats.(r)</desc>
+  </programme>
+  <programme start="20241116070000 -0300" stop="20241116073000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">The Cyberchase Movie, Part 2</sub-title>
+    <desc lang="en">Hacker and his team drill inside a nature preserve, inadvertently destroying animal habitats.(r)</desc>
+  </programme>
+  <programme start="20241116073000 -0300" stop="20241116080000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Totally Totem; Glacier or Bust</sub-title>
+    <desc lang="en">Andy and Luna enlist the help of a totem pole artist to tell their story; Andy wants to see the blue light of the Mendenhall Glacier ice caves.(r)</desc>
+  </programme>
+  <programme start="20241116073000 -0300" stop="20241116080000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Totally Totem; Glacier or Bust</sub-title>
+    <desc lang="en">Andy and Luna enlist the help of a totem pole artist to tell their story; Andy wants to see the blue light of the Mendenhall Glacier ice caves.(r)</desc>
+  </programme>
+  <programme start="20241116073000 -0300" stop="20241116080000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Totally Totem; Glacier or Bust</sub-title>
+    <desc lang="en">Andy and Luna enlist the help of a totem pole artist to tell their story; Andy wants to see the blue light of the Mendenhall Glacier ice caves.(r)</desc>
+  </programme>
+  <programme start="20241116080000 -0300" stop="20241116083000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">The March of the Sea Turtles; A Squirrely Situation</sub-title>
+    <desc lang="en">The kids try to figure out why the newly-hatched baby sea turtles walk around town instead of crawling into the ocean; Emily Elizabeth and Clifford are inspired to turn Clifford's doghouse into a warm and cozy paradise.(r)</desc>
+  </programme>
+  <programme start="20241116080000 -0300" stop="20241116083000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">The March of the Sea Turtles; A Squirrely Situation</sub-title>
+    <desc lang="en">The kids try to figure out why the newly-hatched baby sea turtles walk around town instead of crawling into the ocean; Emily Elizabeth and Clifford are inspired to turn Clifford's doghouse into a warm and cozy paradise.(r)</desc>
+  </programme>
+  <programme start="20241116080000 -0300" stop="20241116083000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Clifford the Big Red Dog</title>
+    <sub-title lang="en">The March of the Sea Turtles; A Squirrely Situation</sub-title>
+    <desc lang="en">The kids try to figure out why the newly-hatched baby sea turtles walk around town instead of crawling into the ocean; Emily Elizabeth and Clifford are inspired to turn Clifford's doghouse into a warm and cozy paradise.(r)</desc>
+  </programme>
+  <programme start="20241116083000 -0300" stop="20241116090000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Monster Truckin'</sub-title>
+    <desc lang="en">Elmo and Chris make a monster truck jump and try to design a ramp out of a pizza box lid.(r)</desc>
+  </programme>
+  <programme start="20241116083000 -0300" stop="20241116090000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Monster Truckin'</sub-title>
+    <desc lang="en">Elmo and Chris make a monster truck jump and try to design a ramp out of a pizza box lid.(r)</desc>
+  </programme>
+  <programme start="20241116083000 -0300" stop="20241116090000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Monster Truckin'</sub-title>
+    <desc lang="en">Elmo and Chris make a monster truck jump and try to design a ramp out of a pizza box lid.(r)</desc>
+  </programme>
+  <programme start="20241116090000 -0300" stop="20241116093000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Peterrific; Mother's Day Surprise</sub-title>
+    <desc lang="en">Peter builds the tallest block tower ever; Pinkalicious and Peter plan something extra special for Mother's Day.(r)</desc>
+  </programme>
+  <programme start="20241116090000 -0300" stop="20241116093000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Peterrific; Mother's Day Surprise</sub-title>
+    <desc lang="en">Peter builds the tallest block tower ever; Pinkalicious and Peter plan something extra special for Mother's Day.(r)</desc>
+  </programme>
+  <programme start="20241116090000 -0300" stop="20241116093000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Pinkalicious &amp; Peterrific</title>
+    <sub-title lang="en">Peterrific; Mother's Day Surprise</sub-title>
+    <desc lang="en">Peter builds the tallest block tower ever; Pinkalicious and Peter plan something extra special for Mother's Day.(r)</desc>
+  </programme>
+  <programme start="20241116093000 -0300" stop="20241116100000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Mecha Builders</title>
+    <sub-title lang="en">Sticky Space Race; The Big Ice</sub-title>
+    <desc lang="en">Zee's super sticky slime spills on Zee and MacBarm, leaving them stuck together; when Marwyn runs out of ice, the Martians send a giant hunk of ice.(r)</desc>
+  </programme>
+  <programme start="20241116093000 -0300" stop="20241116100000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Mecha Builders</title>
+    <sub-title lang="en">Sticky Space Race; The Big Ice</sub-title>
+    <desc lang="en">Zee's super sticky slime spills on Zee and MacBarm, leaving them stuck together; when Marwyn runs out of ice, the Martians send a giant hunk of ice.(r)</desc>
+  </programme>
+  <programme start="20241116093000 -0300" stop="20241116100000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Mecha Builders</title>
+    <sub-title lang="en">Sticky Space Race; The Big Ice</sub-title>
+    <desc lang="en">Zee's super sticky slime spills on Zee and MacBarm, leaving them stuck together; when Marwyn runs out of ice, the Martians send a giant hunk of ice.(r)</desc>
+  </programme>
+  <programme start="20241116100000 -0300" stop="20241116103000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Grouch-ercise</sub-title>
+    <desc lang="en">Oscar the Grouch has been feeling terrible and Elmo, Abby Cadabby, Grundgetta and Nina find different exercises he could do to feel better; when they come back, they find Oscar feeling good and rotten again after a long, grouchy walk.(r)</desc>
+  </programme>
+  <programme start="20241116100000 -0300" stop="20241116103000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Grouch-ercise</sub-title>
+    <desc lang="en">Oscar the Grouch has been feeling terrible and Elmo, Abby Cadabby, Grundgetta and Nina find different exercises he could do to feel better; when they come back, they find Oscar feeling good and rotten again after a long, grouchy walk.(r)</desc>
+  </programme>
+  <programme start="20241116100000 -0300" stop="20241116103000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Sesame Street</title>
+    <sub-title lang="en">Grouch-ercise</sub-title>
+    <desc lang="en">Oscar the Grouch has been feeling terrible and Elmo, Abby Cadabby, Grundgetta and Nina find different exercises he could do to feel better; when they come back, they find Oscar feeling good and rotten again after a long, grouchy walk.(r)</desc>
+  </programme>
+  <programme start="20241116103000 -0300" stop="20241116110000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Dancer</sub-title>
+    <desc lang="en">A young cat, Milo, lives with his parents at their drycleaner; their robotic washing machine, Suds, lets Milo and his friends try on different outfits, introducing them to a realm of endless possibilities.(r)</desc>
+  </programme>
+  <programme start="20241116103000 -0300" stop="20241116110000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Dancer</sub-title>
+    <desc lang="en">A young cat, Milo, lives with his parents at their drycleaner; their robotic washing machine, Suds, lets Milo and his friends try on different outfits, introducing them to a realm of endless possibilities.(r)</desc>
+  </programme>
+  <programme start="20241116103000 -0300" stop="20241116110000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Milo</title>
+    <sub-title lang="en">Milo the Dancer</sub-title>
+    <desc lang="en">A young cat, Milo, lives with his parents at their drycleaner; their robotic washing machine, Suds, lets Milo and his friends try on different outfits, introducing them to a realm of endless possibilities.(r)</desc>
+  </programme>
+  <programme start="20241116110000 -0300" stop="20241116113000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Brother Day; Cafe Chaos</sub-title>
+    <desc lang="en">Malik learns the key to a successful.(r)</desc>
+  </programme>
+  <programme start="20241116110000 -0300" stop="20241116113000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Brother Day; Cafe Chaos</sub-title>
+    <desc lang="en">Malik learns the key to a successful.(r)</desc>
+  </programme>
+  <programme start="20241116110000 -0300" stop="20241116113000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Brother Day; Cafe Chaos</sub-title>
+    <desc lang="en">Malik learns the key to a successful.(r)</desc>
+  </programme>
+  <programme start="20241116113000 -0300" stop="20241116120000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Me Time; Zadie and the Big, Loud, Noisy Thing</sub-title>
+    <desc lang="en">The Wombats go on a quest to figure out all the elements that go into creating the perfect.(r)</desc>
+  </programme>
+  <programme start="20241116113000 -0300" stop="20241116120000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Me Time; Zadie and the Big, Loud, Noisy Thing</sub-title>
+    <desc lang="en">The Wombats go on a quest to figure out all the elements that go into creating the perfect.(r)</desc>
+  </programme>
+  <programme start="20241116113000 -0300" stop="20241116120000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Work It Out Wombats!</title>
+    <sub-title lang="en">Me Time; Zadie and the Big, Loud, Noisy Thing</sub-title>
+    <desc lang="en">The Wombats go on a quest to figure out all the elements that go into creating the perfect.(r)</desc>
+  </programme>
+  <programme start="20241116120000 -0300" stop="20241116123000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Daniel and O's Road Trip; Daniel's Puppet Plan</sub-title>
+    <desc lang="en">Daniel and O pretend to go on a trolley road trip; when Daniel and his friends make puppets at the library, they find out that making a plan can help them put on a better puppet show.(r)</desc>
+  </programme>
+  <programme start="20241116120000 -0300" stop="20241116123000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Daniel and O's Road Trip; Daniel's Puppet Plan</sub-title>
+    <desc lang="en">Daniel and O pretend to go on a trolley road trip; when Daniel and his friends make puppets at the library, they find out that making a plan can help them put on a better puppet show.(r)</desc>
+  </programme>
+  <programme start="20241116120000 -0300" stop="20241116123000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Daniel and O's Road Trip; Daniel's Puppet Plan</sub-title>
+    <desc lang="en">Daniel and O pretend to go on a trolley road trip; when Daniel and his friends make puppets at the library, they find out that making a plan can help them put on a better puppet show.(r)</desc>
+  </programme>
+  <programme start="20241116123000 -0300" stop="20241116130000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Tiger Family Lunch; Dinnertime at Jodi's</sub-title>
+    <desc lang="en">Daniel gets distracted at a picnic lunch at the playground with Mom Tiger; Daniel helps make pan pans for dinner at Jodi's house.(r)</desc>
+  </programme>
+  <programme start="20241116123000 -0300" stop="20241116130000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Tiger Family Lunch; Dinnertime at Jodi's</sub-title>
+    <desc lang="en">Daniel gets distracted at a picnic lunch at the playground with Mom Tiger; Daniel helps make pan pans for dinner at Jodi's house.(r)</desc>
+  </programme>
+  <programme start="20241116123000 -0300" stop="20241116130000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Daniel Tiger's Neighborhood</title>
+    <sub-title lang="en">Tiger Family Lunch; Dinnertime at Jodi's</sub-title>
+    <desc lang="en">Daniel gets distracted at a picnic lunch at the playground with Mom Tiger; Daniel helps make pan pans for dinner at Jodi's house.(r)</desc>
+  </programme>
+  <programme start="20241116130000 -0300" stop="20241116133000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Fake Mustache Collection; The Lint Dinosaur Collection</sub-title>
+    <desc lang="en">Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.(r)</desc>
+  </programme>
+  <programme start="20241116130000 -0300" stop="20241116133000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Fake Mustache Collection; The Lint Dinosaur Collection</sub-title>
+    <desc lang="en">Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.(r)</desc>
+  </programme>
+  <programme start="20241116130000 -0300" stop="20241116133000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Carl the Collector</title>
+    <sub-title lang="en">The Fake Mustache Collection; The Lint Dinosaur Collection</sub-title>
+    <desc lang="en">Nico is tired of being mistaken for her twin sister; Carl is upset when Nico breaks the Lint Dinosaur Monday rules and makes a Lint Monster instead.(r)</desc>
+  </programme>
+  <programme start="20241116133000 -0300" stop="20241116140000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">Your Churn, George; Going Nuts</sub-title>
+    <desc lang="en">George volunteers to make butter; George becomes involved in a territorial dispute.(r)</desc>
+  </programme>
+  <programme start="20241116133000 -0300" stop="20241116140000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">Your Churn, George; Going Nuts</sub-title>
+    <desc lang="en">George volunteers to make butter; George becomes involved in a territorial dispute.(r)</desc>
+  </programme>
+  <programme start="20241116133000 -0300" stop="20241116140000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Curious George</title>
+    <sub-title lang="en">Your Churn, George; Going Nuts</sub-title>
+    <desc lang="en">George volunteers to make butter; George becomes involved in a territorial dispute.(r)</desc>
+  </programme>
+  <programme start="20241116140000 -0300" stop="20241116143000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Breakfast Bowl; Dancing Dandelions</sub-title>
+    <desc lang="en">Donkey and Panda compete in the Breakfast Bowl; Donkey, Panda and Bob Dog plant dancing dandelion seeds and look for the right music to help the flowers grow.(r)</desc>
+  </programme>
+  <programme start="20241116140000 -0300" stop="20241116143000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Breakfast Bowl; Dancing Dandelions</sub-title>
+    <desc lang="en">Donkey and Panda compete in the Breakfast Bowl; Donkey, Panda and Bob Dog plant dancing dandelion seeds and look for the right music to help the flowers grow.(r)</desc>
+  </programme>
+  <programme start="20241116140000 -0300" stop="20241116143000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">The Breakfast Bowl; Dancing Dandelions</sub-title>
+    <desc lang="en">Donkey and Panda compete in the Breakfast Bowl; Donkey, Panda and Bob Dog plant dancing dandelion seeds and look for the right music to help the flowers grow.(r)</desc>
+  </programme>
+  <programme start="20241116143000 -0300" stop="20241116150000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc lang="en">Donkey and Panda have different ideas about how to celebrate Best Friends Day; while getting ready to make big art, the pals get stuck to a big glue bottle.(r)</desc>
+  </programme>
+  <programme start="20241116143000 -0300" stop="20241116150000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc lang="en">Donkey and Panda have different ideas about how to celebrate Best Friends Day; while getting ready to make big art, the pals get stuck to a big glue bottle.(r)</desc>
+  </programme>
+  <programme start="20241116143000 -0300" stop="20241116150000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Donkey Hodie</title>
+    <sub-title lang="en">Best Friends Day; Silly Sticky Situation</sub-title>
+    <desc lang="en">Donkey and Panda have different ideas about how to celebrate Best Friends Day; while getting ready to make big art, the pals get stuck to a big glue bottle.(r)</desc>
+  </programme>
+  <programme start="20241116150000 -0300" stop="20241116153000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">Going With the Tide; Slime Time</sub-title>
+    <desc lang="en">The kids try to build a sandcastle, but have trouble finding the right spot on the beach; Elinor uses slime to get a stuck ring off Camilla's finger.(r)</desc>
+  </programme>
+  <programme start="20241116150000 -0300" stop="20241116153000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">Going With the Tide; Slime Time</sub-title>
+    <desc lang="en">The kids try to build a sandcastle, but have trouble finding the right spot on the beach; Elinor uses slime to get a stuck ring off Camilla's finger.(r)</desc>
+  </programme>
+  <programme start="20241116150000 -0300" stop="20241116153000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Elinor Wonders Why</title>
+    <sub-title lang="en">Going With the Tide; Slime Time</sub-title>
+    <desc lang="en">The kids try to build a sandcastle, but have trouble finding the right spot on the beach; Elinor uses slime to get a stuck ring off Camilla's finger.(r)</desc>
+  </programme>
+  <programme start="20241116153000 -0300" stop="20241116160000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">Rosie and Javi prepare for the arrival of a dragon; Rosie finds a lucky charm in the backyard.(r)</desc>
+  </programme>
+  <programme start="20241116153000 -0300" stop="20241116160000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">Rosie and Javi prepare for the arrival of a dragon; Rosie finds a lucky charm in the backyard.(r)</desc>
+  </programme>
+  <programme start="20241116153000 -0300" stop="20241116160000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Dragon Drama; Rosie's Lucky Charm</sub-title>
+    <desc lang="en">Rosie and Javi prepare for the arrival of a dragon; Rosie finds a lucky charm in the backyard.(r)</desc>
+  </programme>
+  <programme start="20241116160000 -0300" stop="20241116163000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241116160000 -0300" stop="20241116163000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241116160000 -0300" stop="20241116163000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241116163000 -0300" stop="20241116170000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241116163000 -0300" stop="20241116170000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241116163000 -0300" stop="20241116170000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241116170000 -0300" stop="20241116173000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241116170000 -0300" stop="20241116173000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241116170000 -0300" stop="20241116173000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241116173000 -0300" stop="20241116180000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241116173000 -0300" stop="20241116180000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241116173000 -0300" stop="20241116180000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241116180000 -0300" stop="20241116183000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116180000 -0300" stop="20241116183000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116180000 -0300" stop="20241116183000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116183000 -0300" stop="20241116190000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241116183000 -0300" stop="20241116190000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241116183000 -0300" stop="20241116190000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241116190000 -0300" stop="20241116193000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241116190000 -0300" stop="20241116193000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241116190000 -0300" stop="20241116193000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241116193000 -0300" stop="20241116200000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241116193000 -0300" stop="20241116200000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241116193000 -0300" stop="20241116200000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241116200000 -0300" stop="20241116203000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+  <programme start="20241116200000 -0300" stop="20241116203000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+  <programme start="20241116200000 -0300" stop="20241116203000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+  <programme start="20241116203000 -0300" stop="20241116210000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Groundhog Wake Up Call</sub-title>
+    <desc lang="en">The Kratt boys learn about hibernation when Aviva falls into a deep sleep.(r)</desc>
+  </programme>
+  <programme start="20241116203000 -0300" stop="20241116210000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Groundhog Wake Up Call</sub-title>
+    <desc lang="en">The Kratt boys learn about hibernation when Aviva falls into a deep sleep.(r)</desc>
+  </programme>
+  <programme start="20241116203000 -0300" stop="20241116210000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Groundhog Wake Up Call</sub-title>
+    <desc lang="en">The Kratt boys learn about hibernation when Aviva falls into a deep sleep.(r)</desc>
+  </programme>
+  <programme start="20241116210000 -0300" stop="20241116213000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116210000 -0300" stop="20241116213000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116210000 -0300" stop="20241116213000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241116213000 -0300" stop="20241116220000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">A Little Kelp From My Friends; Mission to Mars</sub-title>
+    <desc lang="en">The crew tries to save the kelp forests from being eaten by sea urchins; the gang visits Mars in a daydream, hoping to meet aliens.(r)</desc>
+  </programme>
+  <programme start="20241116213000 -0300" stop="20241116220000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">A Little Kelp From My Friends; Mission to Mars</sub-title>
+    <desc lang="en">The crew tries to save the kelp forests from being eaten by sea urchins; the gang visits Mars in a daydream, hoping to meet aliens.(r)</desc>
+  </programme>
+  <programme start="20241116213000 -0300" stop="20241116220000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Nature Cat</title>
+    <sub-title lang="en">A Little Kelp From My Friends; Mission to Mars</sub-title>
+    <desc lang="en">The crew tries to save the kelp forests from being eaten by sea urchins; the gang visits Mars in a daydream, hoping to meet aliens.(r)</desc>
+  </programme>
+  <programme start="20241116220000 -0300" stop="20241116223000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Heat Wave; It Came From Beyond</sub-title>
+    <desc lang="en">A heat wave hits Qyah, and Molly is determined to find out the highest temperature on record; Molly and Trini must save Qyah from a wildflower.(r)</desc>
+  </programme>
+  <programme start="20241116220000 -0300" stop="20241116223000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Heat Wave; It Came From Beyond</sub-title>
+    <desc lang="en">A heat wave hits Qyah, and Molly is determined to find out the highest temperature on record; Molly and Trini must save Qyah from a wildflower.(r)</desc>
+  </programme>
+  <programme start="20241116220000 -0300" stop="20241116223000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Molly of Denali</title>
+    <sub-title lang="en">Heat Wave; It Came From Beyond</sub-title>
+    <desc lang="en">A heat wave hits Qyah, and Molly is determined to find out the highest temperature on record; Molly and Trini must save Qyah from a wildflower.(r)</desc>
+  </programme>
+  <programme start="20241116223000 -0300" stop="20241116230000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Search and Rescue; Secret Lives of Teachers</sub-title>
+    <desc lang="en">Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.(r)</desc>
+  </programme>
+  <programme start="20241116223000 -0300" stop="20241116230000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Search and Rescue; Secret Lives of Teachers</sub-title>
+    <desc lang="en">Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.(r)</desc>
+  </programme>
+  <programme start="20241116223000 -0300" stop="20241116230000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Hero Elementary</title>
+    <sub-title lang="en">Search and Rescue; Secret Lives of Teachers</sub-title>
+    <desc lang="en">Sparks' crew searches for two schoolmates who are hiding somewhere in Citytown; the kids are surprised to see their teacher outside of school.(r)</desc>
+  </programme>
+  <programme start="20241116230000 -0300" stop="20241116233000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">An Urchin Matter</sub-title>
+    <desc lang="en">The CyberSquad explores why the once-healthy kelp in Big Bay is washing ashore.(r)</desc>
+  </programme>
+  <programme start="20241116230000 -0300" stop="20241116233000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">An Urchin Matter</sub-title>
+    <desc lang="en">The CyberSquad explores why the once-healthy kelp in Big Bay is washing ashore.(r)</desc>
+  </programme>
+  <programme start="20241116230000 -0300" stop="20241116233000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Cyberchase</title>
+    <sub-title lang="en">An Urchin Matter</sub-title>
+    <desc lang="en">The CyberSquad explores why the once-healthy kelp in Big Bay is washing ashore.(r)</desc>
+  </programme>
+  <programme start="20241116233000 -0300" stop="20241117000000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Mr. Precise; The Case of the Missing Cheese</sub-title>
+    <desc lang="en">Carmen breaks her favorite clock; Leo learns about Swiss cheese.(r)</desc>
+  </programme>
+  <programme start="20241116233000 -0300" stop="20241117000000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Mr. Precise; The Case of the Missing Cheese</sub-title>
+    <desc lang="en">Carmen breaks her favorite clock; Leo learns about Swiss cheese.(r)</desc>
+  </programme>
+  <programme start="20241116233000 -0300" stop="20241117000000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Let's Go Luna!</title>
+    <sub-title lang="en">Mr. Precise; The Case of the Missing Cheese</sub-title>
+    <desc lang="en">Carmen breaks her favorite clock; Leo learns about Swiss cheese.(r)</desc>
+  </programme>
+  <programme start="20241117000000 -0300" stop="20241117003000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241117000000 -0300" stop="20241117003000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241117000000 -0300" stop="20241117003000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Rosie's Rules</title>
+    <sub-title lang="en">Rosie Rocks Mariachi; Rosie Canta un Corrido</sub-title>
+    <desc lang="en">Rosie performs in Papa's mariachi band; Rosie wants to sing a corrido for the family talent show.(r)</desc>
+  </programme>
+  <programme start="20241117003000 -0300" stop="20241117010000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241117003000 -0300" stop="20241117010000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241117003000 -0300" stop="20241117010000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Xavier Riddle and the Secret Museum</title>
+    <sub-title lang="en">I Am Nikola Tesla; I Am Nellie Bly</sub-title>
+    <desc lang="en">Xavier is upset thinking he won't be able to bring the museum to his friend in Japan, but Nikola Tesla encourages him not to give up; Nellie Bly helps Yadina overcome her fear of the monkey bars.(r)</desc>
+  </programme>
+  <programme start="20241117010000 -0300" stop="20241117013000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241117010000 -0300" stop="20241117013000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241117010000 -0300" stop="20241117013000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">A Gift for Granny; Soccer Friends</sub-title>
+    <desc lang="en">Alma puts together a care package for Granny Isa; Beto and Rafia are nervous to play each other in soccer.(r)</desc>
+  </programme>
+  <programme start="20241117013000 -0300" stop="20241117020000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241117013000 -0300" stop="20241117020000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241117013000 -0300" stop="20241117020000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Alma's Way</title>
+    <sub-title lang="en">All About Alma; Alma's Playdate</sub-title>
+    <desc lang="en">Alma is consumed with her starring role in a musical; Alma and Harper have a playdate at the Rivera house.(r)</desc>
+  </programme>
+  <programme start="20241117020000 -0300" stop="20241117023000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241117020000 -0300" stop="20241117023000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241117020000 -0300" stop="20241117023000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Lyla in the Loop</title>
+    <sub-title lang="en">Piece of Cake; Kibbles and Coins</sub-title>
+    <desc lang="en">Lyla and Stu make a mess decorating cupcakes; Lyla tries to retrieve Everett's lost coin.(r)</desc>
+  </programme>
+  <programme start="20241117023000 -0300" stop="20241117030000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241117023000 -0300" stop="20241117030000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241117023000 -0300" stop="20241117030000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Arthur</title>
+    <sub-title lang="en">Fifteen</sub-title>
+    <desc lang="en">Arthur and his friends find out exactly how much they can accomplish within 15 minutes.(r)</desc>
+  </programme>
+  <programme start="20241117030000 -0300" stop="20241117033000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241117030000 -0300" stop="20241117033000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241117030000 -0300" stop="20241117033000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">Oscar and the Oscarbots; Picture Day</sub-title>
+    <desc lang="en">Oscar's Oscarbots get lost in town; Otto and Olive try to figure out why people are becoming plaid and striped.(r)</desc>
+  </programme>
+  <programme start="20241117033000 -0300" stop="20241117040000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241117033000 -0300" stop="20241117040000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241117033000 -0300" stop="20241117040000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Odd Squad</title>
+    <sub-title lang="en">A Case of the Sing-Alongs; Ms. O Uh-0h</sub-title>
+    <desc lang="en">Mayor Macklemore catches a case of the Sing-A-Longs; Ms. O from the past appears at the office.(r)</desc>
+  </programme>
+  <programme start="20241117040000 -0300" stop="20241117043000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+  <programme start="20241117040000 -0300" stop="20241117043000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+  <programme start="20241117040000 -0300" stop="20241117043000 -0300" channel="PBS Kids (WBRA-TV3) Roanoke, VA">
+    <title lang="en">Wild Kratts</title>
+    <sub-title lang="en">Chimpanzee and Me</sub-title>
+    <desc lang="en">A young chimp cheers up Chris when he sprains his ankle while climbing in Uganda's tropical forests.(r)</desc>
+  </programme>
+</tv>
